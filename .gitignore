@@ -1,0 +1,12 @@
+.DS_Store
+.htpasswd
+dump.rdb
+
+/web/
+/vendor/
+/node_modules/
+/AppBundle/Ressources/bower_components/
+
+# dossier de configuration de mon IDE pour le projet courant
+
+.idea/*
