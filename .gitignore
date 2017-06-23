@@ -1,11 +1,26 @@
 .DS_Store
 .htpasswd
 dump.rdb
+npm-debug.log
+gulp-git.log
 
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+.vscode
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+/composer.lock
+
+# resources front-end
+#-------------------------
 /web/
 /vendor/
 /node_modules/
 /AppBundle/Ressources/bower_components/
-
-# dossier de configuration de mon IDE pour le projet courant
-.idea/
