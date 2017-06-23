@@ -8,5 +8,4 @@ dump.rdb
 /AppBundle/Ressources/bower_components/
 
 # dossier de configuration de mon IDE pour le projet courant
-
-.idea/*
+.idea/
